@@ -1,0 +1,49 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="yonetim.master.cs" Inherits="chaidijitalpazarlama.yonetim.yonetim" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            text-align: center;
+        }
+        .auto-style3 {
+            width: 271px;
+            vertical-align:top;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <table class="auto-style1">
+            <tr>
+                <td class="auto-style2" colspan="2">CHAİ DİJİTAL PAZARLAMA YÖNETİM PANELİ&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style3">
+                    <asp:LinkButton ID="btnSayfaIslemleri" runat="server" OnClick="btnSayfaIslemleri_Click">Sayfa İşlemleri</asp:LinkButton><br />
+                    <asp:LinkButton ID="btnReferansYonetimi" runat="server" OnClick="btnReferansIslemleri_Click">Referans İşlemleri</asp:LinkButton><br />
+                    <asp:LinkButton ID="btnYorumIslemleri" runat="server" OnClick="btnYorumIslemleri_Click">Yorum İşlemleri</asp:LinkButton><br />
+                    <asp:LinkButton ID="btnUyeIslemleri" runat="server" OnClick="btnUyeIslemleri_Click">Üye İşlemleri</asp:LinkButton><br />
+                    <asp:LinkButton ID="btnYoneticiIslemleri" runat="server" OnClick="btnYoneticiIslemleri_Click">Yönetici İşlemleri</asp:LinkButton><br />
+                    <asp:LinkButton ID="btnYonetimCikis" runat="server" CommandArgument="" OnClick="btnYonetimCikis_Click" OnClientClick="return confirm('Çıkmak istiyor musunuz?')">ÇIKIŞ</asp:LinkButton>
+                </td>
+                <td style="vertical-align:top; min-height:500px">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+        </table>
+        <div>
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,301 @@
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\chaidijitalpazarlama.dll.config
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\chaidijitalpazarlama.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\chaidijitalpazarlama.pdb
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csc.exe
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csc.exe.config
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csc.rsp
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csi.exe
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csi.exe.config
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csi.rsp
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.AppContext.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Console.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.IO.Compression.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Net.Http.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.ValueTuple.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\vbc.exe
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\vbc.exe.config
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\vbc.rsp
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\VBCSCompiler.exe
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\obj\Debug\chaidijitalpazarlama.csproj.AssemblyReference.cache
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\obj\Debug\chaidijitalpazarlama.csproj.CoreCompileInputs.cache
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\obj\Debug\chaidijitalpazarlama.csproj.CopyComplete
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\obj\Debug\chaidijitalpazarlama.dll
+C:\Users\ercan\source\repos\chaidijitalpazarlama\chaidijitalpazarlama\obj\Debug\chaidijitalpazarlama.pdb
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\chaidijitalpazarlama.dll.config
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\chaidijitalpazarlama.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\chaidijitalpazarlama.pdb
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csc.exe
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csc.exe.config
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csc.rsp
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csi.exe
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csi.exe.config
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csi.rsp
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.Managed.Core.targets
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.AppContext.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Collections.Immutable.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Console.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Globalization.Calendars.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.IO.Compression.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.IO.FileSystem.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Net.Http.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Net.Sockets.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Reflection.Metadata.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.ValueTuple.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Xml.XmlDocument.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Xml.XPath.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\vbc.exe
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\vbc.exe.config
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\vbc.rsp
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\VBCSCompiler.exe
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\VBCSCompiler.exe.config
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\obj\Debug\chaidijitalpazarlama.csproj.AssemblyReference.cache
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\obj\Debug\chaidijitalpazarlama.csproj.CoreCompileInputs.cache
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\obj\Debug\chaidijitalpazarlama.csproj.CopyComplete
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\obj\Debug\chaidijitalpazarlama.dll
+F:\RABİA\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\obj\Debug\chaidijitalpazarlama.pdb
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\obj\Debug\chaidijitalpazarlama.csproj.AssemblyReference.cache
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\obj\Debug\chaidijitalpazarlama.csproj.CoreCompileInputs.cache
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\obj\Debug\chaidijitalpazarlama.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\obj\Debug\chaidijitalpazarlama.pdb
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\chaidijitalpazarlama.dll.config
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\chaidijitalpazarlama.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\chaidijitalpazarlama.pdb
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csc.exe
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csc.exe.config
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csc.rsp
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csi.exe
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csi.exe.config
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csi.rsp
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.AppContext.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Console.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.IO.Compression.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Net.Http.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.ValueTuple.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\vbc.exe
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\vbc.exe.config
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\vbc.rsp
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\VBCSCompiler.exe
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\obj\Debug\chaidijitalpazarlama.csproj.CopyComplete
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI Web Sitesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\FredCK.FCKeditorV2.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\chaidijitalpazarlama.dll.config
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\chaidijitalpazarlama.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\chaidijitalpazarlama.pdb
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csc.exe
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csc.exe.config
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csc.rsp
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csi.exe
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csi.exe.config
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csi.rsp
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.AppContext.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Console.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.IO.Compression.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Net.Http.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.ValueTuple.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\vbc.exe
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\vbc.exe.config
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\vbc.rsp
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\VBCSCompiler.exe
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\FredCK.FCKeditorV2.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\obj\Debug\chaidijitalpazarlama.csproj.AssemblyReference.cache
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\obj\Debug\chaidijitalpazarlama.csproj.CoreCompileInputs.cache
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\obj\Debug\chaidijitalpazarlama.csproj.CopyComplete
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\obj\Debug\chaidijitalpazarlama.dll
+C:\Users\Billab5\Desktop\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\obj\Debug\chaidijitalpazarlama.pdb
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\chaidijitalpazarlama.dll.config
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\chaidijitalpazarlama.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\chaidijitalpazarlama.pdb
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csc.exe
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csc.exe.config
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csc.rsp
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csi.exe
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csi.exe.config
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\csi.rsp
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.Managed.Core.targets
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.AppContext.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Collections.Immutable.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Console.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Globalization.Calendars.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.IO.Compression.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.IO.FileSystem.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Net.Http.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Net.Sockets.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Reflection.Metadata.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.ValueTuple.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Xml.XmlDocument.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Xml.XPath.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\vbc.exe
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\vbc.exe.config
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\vbc.rsp
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\VBCSCompiler.exe
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\roslyn\VBCSCompiler.exe.config
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\AjaxControlToolkit.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\FredCK.FCKeditorV2.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\obj\Debug\chaidijitalpazarlama.csproj.AssemblyReference.cache
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\obj\Debug\chaidijitalpazarlama.csproj.CoreCompileInputs.cache
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\obj\Debug\chaidijitalpazarlama.csproj.CopyComplete
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\obj\Debug\chaidijitalpazarlama.dll
+D:\RABİA\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Final Projesi\chaidijitalpazarlama\chaidijitalpazarlama\obj\Debug\chaidijitalpazarlama.pdb
+C:\Users\hpolat\Desktop\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Bütünleme Projesi\chaidijitalpazarlama\chaidijitalpazarlama\obj\Debug\chaidijitalpazarlama.dll
+C:\Users\hpolat\Desktop\Rabia SANDIKÇI Web Sitesi\Rabia SANDIKÇI İnternet Programcılığı 1 Bütünleme Projesi\chaidijitalpazarlama\chaidijitalpazarlama\obj\Debug\chaidijitalpazarlama.pdb
